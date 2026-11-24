@@ -35,6 +35,9 @@ This project followed a structured three stage pipeline:
 |2|**SQL Server (SSMS)**| Structured analytical querying across eight questions including aggregate functions, summary functions (group by) and other functions
 |3|**Power BI**| Creation of interactive dashboard with KPI cards/bar/line/donut/column charts, slicers and conditional formating
 ## 5. Analysis and Findings
+### Dashboard Overview
+<img width="1275" height="724" alt="DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/2dc5b4d4-4175-4c8a-82d8-382c4dac1f6c" />
+
 ### 5.1 Product Performance:
 Salad is the highest revenue generating product, contributing **19,070** in sales, followed by Sandwich (**13,644**) and Smoothie (**13,320**). Cookie recorded the lowest revenue among identified products, with **3,589**. Interestingly, Coffee recorded the highest quantity sold, demonstrating that the most frequently purchased product is not necessarily the highest revenue generator.
 ### 5.2 Monthly Sales Performance:
