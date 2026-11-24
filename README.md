@@ -34,3 +34,27 @@ This project followed a structured three stage pipeline:
 |1|**Microsoft Excel**| Data importation, inspection, cleaning, formatting, calculation of missing values of Total Spent, Quantity and Price Per Unit where possible using appropriate formulas, derivation of derived columns (Month, Day of week), and further data analysis
 |2|**SQL Server (SSMS)**| Structured analytical querying across eight questions including aggregate functions, summary functions (group by) and other functions
 |3|**Power BI**| Creation of interactive dashboard with KPI cards/bar/line/donut/column charts, slicers and conditional formating
+## 5. Analysis and Findings
+### 5.1 Product Performance:
+Salad is the highest revenue generating product, contributing **19,070** in sales, followed by Sandwich (**13,644**) and Smoothie (**13,320**). Cookie recorded the lowest revenue among identified products, with **3,589**. Interestingly, Coffee recorded the highest quantity sold, demonstrating that the most frequently purchased product is not necessarily the highest revenue generator.
+### 5.2 Monthly Sales Performance:
+June was the strongest month generating **7,350** in revenue followed by October with **7,302**. February recorded the lowest monthly revenue at **6,633.5**. Overall, monthly sales remained relatively consistent throughout the year.
+### 5.3 Weekly Sales Performance: 
+Thursday recorded the highest sales revenue of **12,394**, closely followed by Friday at **12,317.5**. Wednesday had the lowest revenue, generating **11,616.5**.
+### 5.4 Payment Method Performance:
+Credit card payments generated the highest recorded revenue among identified payment methods contributing **20,427**. Digital wallet followed with **20,383.5**, while cash generated **20,366.5**. This indicates a relatively balanced distribution among the three payment methods.
+### 5.5 Sales Location Performance:
+In-store sales generated **27,127** slightly exceeding Takeaway sales of of **26,487.5**. This suggests that both sales channels contribute significantly to the cafe's overall revenue.
+## 6. Recommendations
+Based on the findings the following actions are recommended:
+1. Maintain adequate inventory of high-performing products, particularly Salad, Sandwich and Smoothie
+2. Investigate the factors responsible for stronger sales in June and October and implement these factors in order to boost the cafe's sales
+3. Explore promotional campaigns and special offers to improve sales on Wednesdays
+4. Maintain support for different payment methods to accommodate customer preferences
+5. Continue investing in In-store and Takeaway services to sustain their contributions to the revenue
+6. Improve data collection process to reduce missing and unidentified transaction information
+## 7. Limitations
+The dataset contains several missing transaction information across the columns and so the report is based only on available information. Also, the dataset does not specify a currency so the figures have been presented without assuming that they are in naira or any other currency.
+## 8. Conclusion
+The analysis indicates that the cafe maintains relatively consistent sales performance, with identifiable differences across products, months, days of the week, payment methods and sales location. Salad is the leading revenue-generating product, June is the strongest month and Thursday is the best performing day.
+Overall, the findings provide useful insights into the cafe's sales patterns and highlights opportunities for improving product management, operational planning, and revenue generation
