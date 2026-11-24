@@ -37,6 +37,8 @@ This project followed a structured three stage pipeline:
 ## 5. Analysis and Findings
 ### Dashboard Overview
 <img width="1275" height="724" alt="DASHBOARD OVERVIEW" src="https://github.com/user-attachments/assets/2dc5b4d4-4175-4c8a-82d8-382c4dac1f6c" />
+<img width="1216" height="689" alt="Page 2" src="https://github.com/user-attachments/assets/1251c1f7-3e13-4ed2-8b3a-a35fcf945729" />
+
 
 ### 5.1 Product Performance:
 Salad is the highest revenue generating product, contributing **19,070** in sales, followed by Sandwich (**13,644**) and Smoothie (**13,320**). Cookie recorded the lowest revenue among identified products, with **3,589**. Interestingly, Coffee recorded the highest quantity sold, demonstrating that the most frequently purchased product is not necessarily the highest revenue generator.
