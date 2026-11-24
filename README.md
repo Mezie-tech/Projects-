@@ -1,4 +1,4 @@
-# Twillight Coffee Shop Sales Performance Analysis
+# Cafe Sales Performance Analysis
 >A comprehensive Data Analysis using Excel, SQL SSMS & Power BI covering from January to December 2023
 ## Key Metrics at a Glance
 |Total Revenue|Total Transactions|Units Sold|Average Transaction Value|
